@@ -1,0 +1,47 @@
+body{
+    background-color: #BBBBBB;
+}
+
+.chico{
+    background-color: #A8E3FA;
+    margin-top: 20px;
+    margin-bottom: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100px;
+    display: block;
+    clear: both;
+   
+}
+
+.grande{
+    background-color: #A8E3FA;
+    margin-top: 18px;
+    margin: 10px;
+    height: 150px;
+    display: block;
+    clear: both;
+}
+
+
+.mediano{
+    background-color: #A8E3FA;
+    height: 150px;
+    width: 47vw;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    margin-left: 10px;
+    display: block;
+    float: left;
+}
+
+.margin-derecho{
+    background-color: #A8E3FA;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    margin-right: 10px;
+    height: 150px;
+    width: 47vw;
+    display: block;
+    float: right;
+}
