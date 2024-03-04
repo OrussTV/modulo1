@@ -1,0 +1,146 @@
+body,html{
+    margin: 0px;
+    font-family: Roboto;
+}
+
+header{
+    display:block;
+    height: 10vh;
+    width: 100vw;
+     
+}
+
+.barrasup{
+    display: flex;
+    float: right;
+}
+
+.barrasup a{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+#iconos{
+    height: 30px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: 22px;
+}
+
+#perfil1{
+    height: 40px;
+    border-radius: 40px;
+    display: block;
+    float: inline-end;
+    margin-right: 15px;
+    margin-top: 20px;
+
+
+}
+
+main{
+    height: 85vh; 
+}
+
+#logo{
+    height: 100px;
+    display: block;
+    padding-top: 20vh;
+    padding-left: 40vw;
+}
+.Barra{
+    margin: 20px 32vw;
+    height: 50px;
+    width: 550px;
+    border-radius: 50px;
+    background-color: white;
+    border:1px solid #E4E4E4;
+}
+
+#mic{
+    height: 25px;
+    display: inline-block;
+    align-items: flex-start;
+    
+}
+
+input{
+    height: 35px;
+    width: 29vw;
+    display: inline-block;
+    border: none;
+    
+}
+
+#busqueda{
+    height: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+
+#camera{
+    height: 25px;
+    padding-left: 15px;
+}
+
+#search{
+    height: 35px;
+    margin-left: 41vw;
+    border-radius: 5px;
+    border: none;
+}
+
+#search a:hover{
+    color: rgb(48, 112, 86);
+    
+}
+
+#lucky{
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+#lucky a:hover{
+    color: rgb(48, 112, 86);
+    
+}
+
+.idioma{
+    margin-top: 10px;
+    margin-left: 43vw;
+}
+footer{
+    background-color: #F2F2F2;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#hoja{
+    height: 15px;
+}
+.izquierda a{
+    margin-left: 20px;
+}
+
+.centro a{
+    margin-left: -40px;
+}
+
+.derecha a{
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    
+}
+
+
